@@ -11,7 +11,7 @@ This game is a basic obstacle avoidance game where the player controls a charact
 To run the game locally, follow these steps:
 
 1. Clone the repository:
-git clone [https://github.com/QC20/your-repository.git](https://github.com/QC20/Obstacle-Game/)
+git clone [https://github.com/QC20/Obstacle-Game.git](https://github.com/QC20/Obstacle-Game/)
 
 2. Open the project folder: cd your-repository
 
